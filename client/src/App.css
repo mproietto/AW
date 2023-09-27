@@ -1,0 +1,32 @@
+
+.below-nav{
+  padding-top: 80px;
+}
+
+.testo-grande{
+  padding-Left: 12px;
+  font-size: 25px;
+}
+
+.titlesx{
+
+  position:relative
+}
+
+
+.rosso{
+
+  background-color: rgb(255, 161, 161);
+}
+
+.giallo{
+  background-color: rgb(255, 230, 0);
+}
+
+.verde{
+  background-color: rgb(214, 255, 204);
+}
+
+.centrato{
+  text-align: center;
+}
